@@ -510,7 +510,7 @@ html, body {
 .video-background {
   position: relative;
   width: 100%;
-  padding-top: 15%; /* Aspect ratio */
+  padding-top: 25%;
   overflow: hidden;
 }
 
